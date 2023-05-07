@@ -3,8 +3,6 @@
 
 ## Baekjoon Problem Solving
 
-
-
 | # | Title | Solution | Topic |
 | :-----: | :---: | :---: | :---: |
 | 10430 | 나머지 |  [Java](/baekjoon_10430/나머지.java) | 입출력과 사칙연산 |
