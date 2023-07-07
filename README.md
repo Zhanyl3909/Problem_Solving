@@ -1,6 +1,4 @@
-
 # Baekjoon
-
 ## Baekjoon Problem Solving
 | Num | # | Title | Solution | Topic |
 | :---: | :-----: | :---: | :---: | :---: |
