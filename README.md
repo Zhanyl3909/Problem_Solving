@@ -2,6 +2,7 @@
 ## Baekjoon Problem Solving
 | Num | # | Title | Solution | Topic |
 | :---: | :-----: | :---: | :---: | :---: |
+
 | 1  | 10430 | 나머지 |  [Java](/baekjoon_10430/나머지.java) | 입출력과 사칙연산 |
 | 2  | 10951 | A + B - 4 |  [Java](/baekjoon_10951/A%2BB-4.java) | 반복문 |
 | 3  | 10953 | A + B - 6 |  [Java](/baekjoon_10953/A%2BB-6.java) | 반복문 |
