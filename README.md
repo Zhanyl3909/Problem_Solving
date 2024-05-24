@@ -23,3 +23,5 @@
 | 18 | 1546 | 평균 | [java](/baekjoon_1546/평균.java) | 1차원 배열 |
 | 19 | 10818 | 최소 최대 | [java](/baekjoon_10818/최소-최대.java) | 1차원 배열 |
 | 20 | 1920 | 수 찾기 | [java](/baekjoon_1920/수_찾기.java) | binary search  |
+
+
