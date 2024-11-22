@@ -25,4 +25,6 @@
 | 20 | 1920 | 수 찾기 | [java](/baekjoon_1920/수_찾기.java) | binary search  |
 | 21 |  | |  | |
 
+22
+
 
